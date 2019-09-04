@@ -37,7 +37,7 @@ public class DynamicTreeApplication extends JFrame {
         DynamicTreeApplication app = new DynamicTreeApplication();
         app.createGUI();
     }
-//w
+//wwq
     private void createGUI() {
         //Create and set up the content pane.
         DynamicTreePanel newContentPane = new DynamicTreePanel();
